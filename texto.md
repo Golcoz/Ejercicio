@@ -28,4 +28,4 @@ git init #esto inicial
 git add #esto prepara todo para commit 
 git commit -m "initial" # esto commitea 
 ```
-Cuando invoquemos
+Cuando invocamos 
